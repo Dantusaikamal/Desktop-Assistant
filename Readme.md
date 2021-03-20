@@ -14,25 +14,20 @@
 <br />
 <p align="center">
   <a href="https://github.com/Dantusaikamal/Desktop-Assistant">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="Images/J.A.R.V.I.S.jpg" alt="Logo" width="300" height="300">
   </a>
 
   <h3 align="center">Desktop Assistant using Python</h3>
 
-  <p align="center">
 
     J.A.R.V.I.S is a python desktop assistant that is capable of carrying many day to day tasks using voice command. It can perform many activities such as opening and send mails, opening desktop applications, playing music, etc!
-    <br />
+  
     <a href="https://github.com/Dantusaikamal/Desktop-Assistant/"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
     <a href="https://github.com/Dantusaikamal/Desktop-Assistant/">View Demo</a>
     ·
     <a href="https://github.com/Dantusaikamal/Desktop-Assistant/issues">Report Bug</a>
     ·
     <a href="https://github.com/Dantusaikamal/Desktop-Assistant/issues">Request Feature</a>
-  </p>
-</p>
 
 
 
@@ -192,7 +187,7 @@ Project Link: [https://github.com/Dantusaikamal/Desktop-Assistant/](https://gith
 [issues-shield]: https://img.shields.io/github/issues/dantusaikamal/Desktop-Assistant.svg?style=flat-square
 [issues-url]: https://github.com/Dantusaikamal/Desktop-Assistant/issues
 [license-shield]: https://img.shields.io/github/license/dantusaikamal/Desktop-Assistant.svg?style=flat-square
-[license-url]:https://github.com/Dantusaikamal/Desktop-Assistant/blob/master/LICENSE.txt
+[license-url]:https://github.com/Dantusaikamal/Desktop-Assistant/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/Dantu-Sai-Kamal
 [product-screenshot]: Images/J.A.R.V.I.S.jpg
