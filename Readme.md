@@ -1,4 +1,4 @@
-*Work in Progress once again. Added many more voice commands soon!
+*Work in Progress once again. Adding many more voice commands soon!
 
 
 [![Contributors][contributors-shield]][contributors-url]
