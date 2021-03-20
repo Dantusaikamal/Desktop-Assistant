@@ -20,7 +20,7 @@
   # Desktop Assistant using Python
 
 
-    J.A.R.V.I.S is a python desktop assistant that is capable of carrying many day to day tasks using voice command. It can perform many activities such as opening and send mails, opening desktop applications, playing music, etc!
+J.A.R.V.I.S is a python desktop assistant that is capable of carrying many day to day tasks using voice command. It can perform many activities such as opening and send mails, opening desktop applications, playing music, etc!
   
   
 
