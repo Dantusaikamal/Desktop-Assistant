@@ -11,23 +11,18 @@
 
 
 <!-- PROJECT LOGO -->
-<br />
 <p align="center">
   <a href="https://github.com/Dantusaikamal/Desktop-Assistant">
     <img src="Images/J.A.R.V.I.S.jpg" alt="Logo" width="300" height="300">
   </a>
+</p>
 
-  <h3 align="center">Desktop Assistant using Python</h3>
+  # Desktop Assistant using Python
 
 
     J.A.R.V.I.S is a python desktop assistant that is capable of carrying many day to day tasks using voice command. It can perform many activities such as opening and send mails, opening desktop applications, playing music, etc!
   
-    <a href="https://github.com/Dantusaikamal/Desktop-Assistant/"><strong>Explore the docs »</strong></a>
-    <a href="https://github.com/Dantusaikamal/Desktop-Assistant/">View Demo</a>
-    ·
-    <a href="https://github.com/Dantusaikamal/Desktop-Assistant/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/Dantusaikamal/Desktop-Assistant/issues">Request Feature</a>
+  
 
 
 
