@@ -1,5 +1,3 @@
-*Work in Progress once again. Adding many more voice commands soon!
-
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
